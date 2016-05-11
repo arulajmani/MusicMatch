@@ -5,9 +5,9 @@ MusicMatch also has extensive Spotify compatibility. It allows the user to expor
 
 This project was a huge learning experience for me. While working on this project, I used the Mutagen library to extract song's metadata and gained experience working with Spotify's developer API. I had to intelligently parse JSON responses and gain familiarity with GET and PUT API calls. For the majority of the functionality provided, I also needed appropriate authorization tokens as well. All in all, it was a challenging but fun experience.
 #Screenshots
-<img width="600" alt="metadata" src="https://cloud.githubusercontent.com/assets/6366031/15185781/7fe57e28-1768-11e6-8c84-67a89f8648d6.png" hspace = 200px>
-<img width="600" alt="invalid input" hspace = 200px src="https://cloud.githubusercontent.com/assets/6366031/15185780/7fe473c0-1768-11e6-8479-c4b40a4b5f7a.png">
-<img width="600" alt="finish" src="https://cloud.githubusercontent.com/assets/6366031/15185783/7fe88e10-1768-11e6-9a2b-f1e148ea56ef.png">
-<img width="600" alt="spotify start" hspace = 200px src="https://cloud.githubusercontent.com/assets/6366031/15185784/7feacb08-1768-11e6-8514-889a9d159e9b.png">
-<img width="600" alt="spotify result" hspace = 200px src="https://cloud.githubusercontent.com/assets/6366031/15185782/7fe69466-1768-11e6-8fad-aaf868d59a28.png">
+<img width="600" alt="metadata" src="https://cloud.githubusercontent.com/assets/6366031/15185781/7fe57e28-1768-11e6-8c84-67a89f8648d6.png" hspace = 200px vspace = 50px>
+<img width="600" alt="invalid input" hspace = 200px vspace = 50px src="https://cloud.githubusercontent.com/assets/6366031/15185780/7fe473c0-1768-11e6-8479-c4b40a4b5f7a.png">
+<img width="600" alt="finish" src="https://cloud.githubusercontent.com/assets/6366031/15185783/7fe88e10-1768-11e6-9a2b-f1e148ea56ef.png" hspace = 200px vspace = 50px>
+<img width="600" alt="spotify start" hspace = 200px vspace = 50px src="https://cloud.githubusercontent.com/assets/6366031/15185784/7feacb08-1768-11e6-8514-889a9d159e9b.png">
+<img width="600" alt="spotify result" hspace = 200px vspace = 50px src="https://cloud.githubusercontent.com/assets/6366031/15185782/7fe69466-1768-11e6-8fad-aaf868d59a28.png">
 
